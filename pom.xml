@@ -21,6 +21,12 @@
 <!--        <module>repository</module>-->
 <!--        <module>service</module>-->
 <!--        <module>main</module>-->
+        <module>model</module>
+        <module>service</module>
+        <module>repository</module>
+        <module>main</module>
+        <module>exceptions</module>
+        <module>json</module>
     </modules>
 
 
